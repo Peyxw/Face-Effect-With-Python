@@ -19,6 +19,6 @@ CV2 <br>
 Haar Cascade <br>
 
 # Run 🏃
-Download modules and showcase yüz1-py
+Download modules and showcase yüz1.py
 # Output
 ![img](/img/1_agaowzal6tEMCzIo1JwAUQ.png)
